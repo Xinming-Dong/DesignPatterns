@@ -1,0 +1,7 @@
+D:\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+D:\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+D:\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+D:\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+D:\DesignPatterns\Singleton\obj\Debug\Singleton.exe
