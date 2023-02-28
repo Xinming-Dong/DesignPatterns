@@ -1,0 +1,15 @@
+D:\DesignPatterns\Proxy\bin\Debug\net6.0\Proxy.exe
+D:\DesignPatterns\Proxy\bin\Debug\net6.0\Proxy.deps.json
+D:\DesignPatterns\Proxy\bin\Debug\net6.0\Proxy.runtimeconfig.json
+D:\DesignPatterns\Proxy\bin\Debug\net6.0\Proxy.dll
+D:\DesignPatterns\Proxy\bin\Debug\net6.0\Proxy.pdb
+D:\DesignPatterns\Proxy\obj\Debug\net6.0\Proxy.csproj.AssemblyReference.cache
+D:\DesignPatterns\Proxy\obj\Debug\net6.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfoInputs.cache
+D:\DesignPatterns\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfo.cs
+D:\DesignPatterns\Proxy\obj\Debug\net6.0\Proxy.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\Proxy\obj\Debug\net6.0\Proxy.dll
+D:\DesignPatterns\Proxy\obj\Debug\net6.0\refint\Proxy.dll
+D:\DesignPatterns\Proxy\obj\Debug\net6.0\Proxy.pdb
+D:\DesignPatterns\Proxy\obj\Debug\net6.0\Proxy.genruntimeconfig.cache
+D:\DesignPatterns\Proxy\obj\Debug\net6.0\ref\Proxy.dll
